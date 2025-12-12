@@ -7,7 +7,7 @@
   "volume_liters": 35.5,
   "merchant_gps_lat": 3.1390,
   "merchant_gps_lon": 101.6869,
-  "prev_txn_time": "2025-01-01T11:30:00",
+  "prev_txn_time": "2025-01-01T11:00:00",
   "prev_txn_gps_lat": 3.0738,
   "prev_txn_gps_lon": 101.5183
 }
